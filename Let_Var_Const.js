@@ -26,7 +26,6 @@ console.log(c); //20
 // Error In Below Code 👇
 // Error :- Identifier d is already declared
 
-
 let d = 40;
 {
   var d = 30;
