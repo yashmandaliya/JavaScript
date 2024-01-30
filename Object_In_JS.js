@@ -1,4 +1,5 @@
 // Object in JavaScript
+//Defination :- Object Is Collection Of Keys And Values.....
 let obj = {
   name: "Yash",
   surname: "Mandaliya",
